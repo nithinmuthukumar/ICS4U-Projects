@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fabfed38-971c-415b-85e9-6a129d5b70a3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>displa</find>
+      <find>minh</find>
+      <find>add</find>
+      <find>add(</find>
+      <find>public</find>
+      <find>public void add(</find>
+      <find>spr</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1TAyUxqaMCMjFmqYNUhjnUUpa7T" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553057623995" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.OODAssign2OLD">
+    <configuration name="BTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BTest" />
+      <module name="BTrees" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OODAssign2OLD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OODAssign2OLD" />
+      <module name="BTrees" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OODAssign2OLD" />
+        <item itemvalue="Application.BTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fabfed38-971c-415b-85e9-6a129d5b70a3" name="Default Changelist" comment="" />
+      <created>1551195652725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551195652725</updated>
+      <workItem from="1551195656288" duration="1017000" />
+      <workItem from="1551281036827" duration="3883000" />
+      <workItem from="1551307869024" duration="8160000" />
+      <workItem from="1551367818975" duration="1996000" />
+      <workItem from="1551382668269" duration="20000" />
+      <workItem from="1551382909848" duration="119000" />
+      <workItem from="1551456993054" duration="929000" />
+      <workItem from="1552059600338" duration="51000" />
+      <workItem from="1552059821097" duration="184000" />
+      <workItem from="1552918722633" duration="79000" />
+      <workItem from="1552919239361" duration="1089000" />
+      <workItem from="1552956897900" duration="7035000" />
+      <workItem from="1553005190656" duration="869000" />
+      <workItem from="1553016327645" duration="768000" />
+      <workItem from="1553050515320" duration="6854000" />
+      <workItem from="1553058174735" duration="535000" />
+      <workItem from="1553060247523" duration="412000" />
+      <workItem from="1553081448774" duration="198000" />
+      <workItem from="1553614481764" duration="2322000" />
+      <workItem from="1553635360178" duration="262000" />
+      <workItem from="1553693753429" duration="622000" />
+      <workItem from="1558234057721" duration="68000" />
+      <workItem from="1572917216314" duration="1891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
